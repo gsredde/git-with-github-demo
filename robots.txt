@@ -10,3 +10,5 @@ Disallow:
 # myline - pull test (gsr)
 
 # push test - gsr
+
+ssh test - redd
