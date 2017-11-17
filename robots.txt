@@ -8,3 +8,5 @@ Disallow:
 
 # some line
 # myline - pull test (gsr)
+
+# push test - gsr
