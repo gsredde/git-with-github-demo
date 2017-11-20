@@ -23,4 +23,4 @@
 # push command - testing
 
 # ssh test
-we are good humans
+# we are good humans
